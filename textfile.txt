@@ -1,0 +1,4 @@
+lisa programmer  34 54000
+elis trainee 24 40000
+rickson hr 30 47000
+kate manager 54 63000
